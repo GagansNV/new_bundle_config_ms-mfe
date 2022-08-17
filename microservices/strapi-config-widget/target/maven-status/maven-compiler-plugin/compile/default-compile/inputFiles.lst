@@ -1,0 +1,16 @@
+/home/gagans/Documents/new_bundle_microservice/msmfe/microservices/strapi-config-widget/src/main/java/com/entando/apiconfig/StrapiApiConfigApplication.java
+/home/gagans/Documents/new_bundle_microservice/msmfe/microservices/strapi-config-widget/src/main/java/com/entando/apiconfig/response/ApiConfigResponseView.java
+/home/gagans/Documents/new_bundle_microservice/msmfe/microservices/strapi-config-widget/src/main/java/com/entando/apiconfig/response/ErrorResponse.java
+/home/gagans/Documents/new_bundle_microservice/msmfe/microservices/strapi-config-widget/src/main/java/com/entando/apiconfig/request/ApiProxyRequestView.java
+/home/gagans/Documents/new_bundle_microservice/msmfe/microservices/strapi-config-widget/src/main/java/com/entando/apiconfig/persistence/ApiConfigRepository.java
+/home/gagans/Documents/new_bundle_microservice/msmfe/microservices/strapi-config-widget/src/main/java/com/entando/apiconfig/exception/GlobalExceptionHandler.java
+/home/gagans/Documents/new_bundle_microservice/msmfe/microservices/strapi-config-widget/src/main/java/com/entando/apiconfig/rest/ApiConfigController.java
+/home/gagans/Documents/new_bundle_microservice/msmfe/microservices/strapi-config-widget/src/main/java/org/keycloak/adapters/springboot/KeycloakSpringBootProperties.java
+/home/gagans/Documents/new_bundle_microservice/msmfe/microservices/strapi-config-widget/src/main/java/com/entando/apiconfig/config/OpenApiConfig.java
+/home/gagans/Documents/new_bundle_microservice/msmfe/microservices/strapi-config-widget/src/main/java/com/entando/apiconfig/request/ApiConfigRequestView.java
+/home/gagans/Documents/new_bundle_microservice/msmfe/microservices/strapi-config-widget/src/main/java/com/entando/apiconfig/service/ApiConfigService.java
+/home/gagans/Documents/new_bundle_microservice/msmfe/microservices/strapi-config-widget/src/main/java/com/entando/apiconfig/config/ApplicationConstants.java
+/home/gagans/Documents/new_bundle_microservice/msmfe/microservices/strapi-config-widget/src/main/java/com/entando/apiconfig/persistence/entity/ApiConfig.java
+/home/gagans/Documents/new_bundle_microservice/msmfe/microservices/strapi-config-widget/src/main/java/com/entando/apiconfig/rest/ApiProxyController.java
+/home/gagans/Documents/new_bundle_microservice/msmfe/microservices/strapi-config-widget/src/main/java/com/entando/apiconfig/config/SecurityConfig.java
+/home/gagans/Documents/new_bundle_microservice/msmfe/microservices/strapi-config-widget/src/main/java/com/entando/apiconfig/exception/ApiConfigNotFoundException.java

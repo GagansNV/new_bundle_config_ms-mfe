@@ -1,0 +1,27 @@
+{
+    "microservices": [
+        {
+            "name": "strapi-config-widget",
+            "stack": "spring-boot",
+            "healthCheckPath": "/health"
+        }
+    ],
+    "microfrontends": [
+        {
+            "name": "react",
+            "customElement": "react",
+            "stack": "react",
+            "type": "widget",
+            "group": "free",
+            "titles": {
+                "en": "Another MFE",
+                "it": "Un altro MFE"
+            }
+        }
+    ],
+    "svc": [],
+    "name": "msmfe",
+    "version": "0.0.1",
+    "description": "msmfe description",
+    "type": "bundle"
+}
